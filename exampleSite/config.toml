@@ -10,12 +10,6 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
 [[menu.footer]]
 URL = "blog"
 name = "Blog"
@@ -56,7 +50,6 @@ currency = "$"
 description = "This is meta description"
 logo = "images/logo.png"
 logo_width = "100px"
-snipcart_api = ""
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
