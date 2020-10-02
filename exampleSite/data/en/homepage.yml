@@ -45,7 +45,7 @@ features:
       inventore?
 promo:
   enable: true
-  image: images/watch.png
+  image: "/images/chatbot-imange-01.png"
   title: Chat with Adam.
   content: "Do you get annoyed wasting time setting up appointments for your customers?
     Answering the same repeated question over and over again? Or would like to offer
