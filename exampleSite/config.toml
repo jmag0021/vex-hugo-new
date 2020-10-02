@@ -1,9 +1,9 @@
-baseurl = "http://demo.themefisher.com/vex-hugo/"
+baseurl = "https://adoring-lewin-2e2bb3.netlify.app/"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
-title = "Vex | hugo landing page template"
+title = "BoxInc"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
@@ -17,38 +17,42 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "privacy-policy"
-name = "Privacy Policy"
-weight = 4
+URL = "blog"
+name = "Blog"
+weight = 1
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 2
 [[menu.footer]]
 URL = "terms-conditions"
 name = "Terms & Conditions"
 weight = 3
 [[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 2
-[[menu.footer]]
-URL = "blog"
-name = "Blog"
-weight = 1
-[[menu.main]]
-URL = "contact"
-name = "Contact"
+URL = "privacy-policy"
+name = "Privacy Policy"
 weight = 4
-[[menu.main]]
-URL = "testimonial"
-name = "Review"
-pre = "#"
-weight = 3
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 2
 [[menu.main]]
 URL = "/"
 name = "Home"
 weight = 1
+[[menu.main]]
+URL = "products"
+name = "Products"
+weight = 2
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "testimonial"
+name = "Review"
+pre = "#"
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
 author = "Themefisher"
 contact_form_action = "#"
