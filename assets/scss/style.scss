@@ -244,34 +244,6 @@ a:active {
   cursor: pointer;
 }
 
-
-/* cart */
-.cart {
-  background: transparent;
-  border: 0;
-  position: relative;
-  i{
-    font-size: 20px;
-  }
-
-  @include desktop {
-    position: absolute;
-    top: 23px;
-    right: 90px;
-  }
-
-  .badge {
-    position: absolute;
-    top: -5px;
-    border-radius: 50%;
-    right: -10px;
-
-  }
-  &:focus{
-    outline: 0;
-  }
-}
-
 .badge-primary{
   background-color: $primary-color;
 }
