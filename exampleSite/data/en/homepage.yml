@@ -78,7 +78,7 @@ products:
   title: Checkout Our All Products
 subscription:
   enable: true
-  bg_image: images/call-to-action.jpg
+  bg_image: "/images/guy-using-phone_box-inc_purple-01.png"
   title: Get Product Updates
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   placeholder: Your Email Address Here
