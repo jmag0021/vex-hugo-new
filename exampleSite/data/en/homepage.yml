@@ -16,7 +16,7 @@ banner:
 features:
   enable: true
   title: What's in our box.
-  image: images/watch-2.png
+  image: "/images/arrows-01.png"
   left_side:
   - title: Digital Marketing
     icon: tf-ion-ios-alarm-outline
