@@ -23,10 +23,6 @@ features:
     content: 'When it comes to digital marketing, Box Inc. can help to organise and
       set your online presence to be the one required to fit your current clientele
       as well as your target audience. '
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
   right_side:
   - title: Custom Solutions
     icon: tf-ion-ios-cart-outline
