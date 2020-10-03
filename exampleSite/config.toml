@@ -45,12 +45,12 @@ name = "Contact"
 weight = 5
 [params]
 author = "Themefisher"
+body_classes = "avenir bg-near-white"
 contact_form_action = "#"
 currency = "$"
 description = "This is meta description"
-logo = "images/logo.png"
+logo = "/images/box-inc-mt-logo-aquamarine-blue-02-02.png"
 logo_width = "100px"
-body_classes = "avenir bg-near-white"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
