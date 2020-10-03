@@ -23,27 +23,16 @@ features:
     content: 'When it comes to digital marketing, Box Inc. can help to organise and
       set your online presence to be the one required to fit your current clientele
       as well as your target audience. '
-  - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   right_side:
-  - title: Smooth Touch
-    icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
+  - title: Custom Solutions
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: At Box Inc., we offer End to End solutions for those business tasks which
+      take up valuable time to complete. We understand how important it is for businesses
+      to make the best use of their resources, be it monetary or labour.
 promo:
   enable: true
   image: "/images/chatbot-imange-01.png"
