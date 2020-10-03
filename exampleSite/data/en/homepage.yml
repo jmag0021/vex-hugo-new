@@ -15,13 +15,14 @@ banner:
     link: products
 features:
   enable: true
-  title: What's in out box.
+  title: What's in our box.
   image: images/watch-2.png
   left_side:
-  - title: Smooth Touch
+  - title: Digital Marketing
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: 'When it comes to digital marketing, Box Inc. can help to organise and
+      set your online presence to be the one required to fit your current clientele
+      as well as your target audience. '
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
